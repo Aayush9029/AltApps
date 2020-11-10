@@ -1,0 +1,29 @@
+{
+  "name": "A29 Repository",
+  "identifier": "com.a29.repos",
+  "apps": [
+    {
+      "name": "New Sense",
+      "bundleIdentifier": "aayushpokharel.Magnetometer",
+      "githubOwner": "aayush9029",
+      "githubRepository": "NewSense",
+      "skipPrerelease": true,
+      "developerName": "A29",
+      "subtitle": "Explore the hidden sensor",
+      "localizedDescription": "Features include:\n\n• Minimal and Simplistic Design\n• Amazing Dark Mode\n• Satisfying interactions \n• Promise of new sensor updates.",
+      "iconURL": "https://raw.githubusercontent.com/Aayush9029/NewSense/gh-pages/icon.jpg",
+      "tintColor": "6a6aee",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/Aayush9029/NewSense/gh-pages/ScreenShots/blu%20copy.png",
+        "https://raw.githubusercontent.com/Aayush9029/NewSense/gh-pages/ScreenShots/blu-red.png",
+        "https://raw.githubusercontent.com/Aayush9029/NewSense/gh-pages/ScreenShots/a.png"
+      ],
+      "version": "1.0",
+      "versionDate": "2020-11-10T16:28:25Z",
+      "versionDescription": "• Initial commit\n • Bring magnets closer to see the app react. \n• Will Add new sensors in future.",
+      "downloadURL": "https://github.com/Aayush9029/NewSense/releases/download/v.0.29/New.Sense.ipa",
+      "size": 945000
+    }
+  ],
+  "news": []
+}
